@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# She/They
+### She/They
 debating on what to put here (0-0)/
 
 <!--
