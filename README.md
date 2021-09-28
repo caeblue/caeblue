@@ -1,5 +1,4 @@
-# Hi there 👋
-She/They    
+# Hi there 👋 Call me Cae    
 Currently a Senior Computer Science Student at University of South Carolina   
 
 # Areas of Interest
