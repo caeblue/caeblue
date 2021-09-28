@@ -1,6 +1,6 @@
 # Hi there 👋
-She/They
-Currently a Senior Computer Science Student at University of South Carolina
+## She/They
+## Currently a Senior Computer Science Student at University of South Carolina
 
 # Areas of Interest
 UX/UI, Graphic design, Character Modeling, Data analysis
