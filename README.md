@@ -1,7 +1,9 @@
 # Hi there 👋
 
 ### She/They
-debating on what to put here (0-0)/
+# Areas of Interest
+---
+UX/UI, Graphic design, Character Modeling, Data analysis
 
 <!--
 **caeblue/caeblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
