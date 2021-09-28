@@ -1,4 +1,4 @@
-# Hi there 👋 Call me Cae    
+# Hello there! 👋     
 Currently a Senior Computer Science Student at University of South Carolina   
 
 # Areas of Interest
