@@ -2,7 +2,7 @@
 Currently a Senior Computer Science Student at University of South Carolina   
 
 An artist with a special interest in computer science!
-[link to art](https://caeblue.weebly.com/uploads/1/1/7/0/117096136/untitled-artwork-2_orig.jpg)
+<img src="https://caeblue.weebly.com/uploads/1/1/7/0/117096136/untitled-artwork-2_orig.jpg" width=300 align=right>
 
 # Areas of Interest
 UX/UI, Graphic design, Character Modeling, Data Analysis, Software Development
