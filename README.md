@@ -1,9 +1,14 @@
 # Hello there! 👋     
 Currently a Senior Computer Science Student at University of South Carolina   
 
-# Areas of Interest
-UX/UI, Graphic design, Character Modeling, Data analysis
+An artist with a special interest in computer science!
+[link to art](https://caeblue.weebly.com/uploads/1/1/7/0/117096136/untitled-artwork-2_orig.jpg)
 
+# Areas of Interest
+UX/UI, Graphic design, Character Modeling, Data Analysis, Software Development
+
+# Reach Me
+Email: caeblue11@gmail.com
 <!--
 **caeblue/caeblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
